@@ -41,7 +41,6 @@ temperature-converter/
 - Worked with DOM manipulation and event handling.
 - Improved frontend development skills.
 
-## Author
 
-YOUR NAME
+
 
